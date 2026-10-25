@@ -1,6 +1,5 @@
-# bistro
-
-"press cafe" remake for Monome Norns. 
+# Cafeteria
+Fork of bistro (https://github.com/cfdrake/bistro), an implementation of "press cafe" for Monome Norns. 
 
 Added stuff
 
