@@ -1,4 +1,4 @@
--- bistro
+-- cafeteria
 -- "press cafe" remake
 -- by: @cfd90
 -- originally by: @stretta
